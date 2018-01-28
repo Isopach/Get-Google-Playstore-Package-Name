@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-import re
 import mechanize
 import cookielib
-import urllib
-import urllib2
 from BeautifulSoup import BeautifulSoup as bsoup
 import requests
 br = mechanize.Browser()
